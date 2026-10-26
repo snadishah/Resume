@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/resume-nadey-ali.html", "destination": "/", "permanent": true },
+    { "source": "/resume", "destination": "/Nadey-Ali-Resume.pdf", "permanent": false }
+  ]
+}
